@@ -19,7 +19,7 @@ spring:
   redis:
     host: 127.0.0.1
     port: 6379
-    password: 
+    password: P0p6396@_gmail.com
     timeout: 10000
     lettuce:
       pool:
@@ -30,8 +30,8 @@ spring:
   rabbitmq:
     host: 127.0.0.1
     port: 5672
-    username: yukong
-    password: x19961010
+    username: admin
+    password: P0p6396@_gmail.com
   http:
     multipart:
       max-file-size: 1000MB
