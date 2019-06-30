@@ -1,7 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://193.112.100.103:8761/eureka/
+      defaultZone: http://127.0.0.1:8761/eureka/
 
 server:
   tomcat:
@@ -22,15 +22,15 @@ spring:
     hikari:
       minimum-idle: 0
   redis:
-    host: 127.0.0.103
+    host: 127.0.0.1
     port: 6379
-    password: x19961010
+    password: P0p6396@_gmail.com
 
   rabbitmq:
     host: 127.0.0.1
     port: 5672
-    username: guest
-    password: guest
+    username: admin
+    password: P0p6396@_gmail.com
   http:
     multipart:
       max-file-size: 1000MB
