@@ -27,7 +27,7 @@ spring:
     password: P0p6396@_gmail.com
 
   rabbitmq:
-    host: 127.0.0.1
+    host: localhost
     port: 5672
     username: admin
     password: admin
